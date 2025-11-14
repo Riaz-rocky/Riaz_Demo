@@ -1,0 +1,1 @@
+i want to understand check out command 
